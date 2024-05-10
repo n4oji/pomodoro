@@ -24,7 +24,8 @@ git clone https://github.com/n4oji/pomodoro.git
 ```
 2. Instale as dependências necessárias.
 ```bash
-pip install playsound tk
+pip install playsound==1.2.2
+pip install tk
 ```
 
 
