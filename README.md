@@ -4,7 +4,7 @@ Um aplicativo de temporizador Pomodoro simples feito em Python com interface gr�
 
 O método Pomodoro é uma técnica de gerenciamento de tempo desenvolvida por Francesco Cirillo no final dos anos 1980. O método utiliza um temporizador para dividir o trabalho em intervalos, tradicionalmente de 25 minutos de trabalho, seguidos de uma pausa curta.
 
-<img src="assets/imgae.png">
+<img src="assets/image.png">
 
 Este app Pomodoro permite que você:
 * Inicie, pause e reinicie o temporizador.
