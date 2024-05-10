@@ -24,7 +24,7 @@ git clone https://github.com/n4oji/pomodoro.git
 ```
 2. Instale as dependências necessárias.
 ```bash
-pip install playsound tkinter
+pip install playsound tk
 ```
 
 
